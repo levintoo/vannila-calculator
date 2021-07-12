@@ -14,5 +14,14 @@ body{
 .container{
     width: 1000px;
     height: 550px;
-    background-color: rgb(207, 196, 196);
+    background-color: white;
+}
+#calculator{
+    width: 320px;
+    height: 520px;
+    background-color: #eaedef;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 2px 5px 9px #888888;
+
 }
